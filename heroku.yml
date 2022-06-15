@@ -1,0 +1,5 @@
+build:
+  docker:
+    Aru: Dockerfile
+run:
+  Aru: python3 -m ARUACK-SPAM-BOT
